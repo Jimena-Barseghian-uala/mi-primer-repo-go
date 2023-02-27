@@ -1,0 +1,1 @@
+Any update on Contacts table throw a SNS email
